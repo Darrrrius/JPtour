@@ -9,32 +9,32 @@ importers:
   .:
     dependencies:
       next:
-        specifier: latest
+        specifier: 16.3.1
         version: 16.3.1(@types/node@26.2.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       react:
-        specifier: latest
+        specifier: 19.2.8
         version: 19.2.8
       react-dom:
-        specifier: latest
+        specifier: 19.2.8
         version: 19.2.8(react@19.2.8)
     devDependencies:
       '@tailwindcss/postcss':
-        specifier: latest
+        specifier: 4.3.3
         version: 4.3.3
       '@types/node':
-        specifier: latest
+        specifier: 26.2.0
         version: 26.2.0
       '@types/react':
-        specifier: latest
+        specifier: 19.2.18
         version: 19.2.18
       '@types/react-dom':
-        specifier: latest
+        specifier: 19.2.4
         version: 19.2.4(@types/react@19.2.18)
       tailwindcss:
-        specifier: latest
+        specifier: 4.3.3
         version: 4.3.3
       typescript:
-        specifier: latest
+        specifier: 7.0.2
         version: 7.0.2
 
 packages:
